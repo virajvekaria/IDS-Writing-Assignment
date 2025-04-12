@@ -230,6 +230,11 @@ def plot_inequality_scatter(dataset, x_var, y_var, x_label, y_label, title, outp
     Returns:
         matplotlib.figure.Figure: The figure object
     """
+    # Check if trying to plot a variable against itself
+    if x_var == y_var:
+        print(f"Cannot create scatter plot of {x_var} against itself. Skipping.")
+        return None
+    
     if dataset is None or dataset.empty:
         print("No data available for scatter plot")
         return None
@@ -244,9 +249,12 @@ def plot_inequality_scatter(dataset, x_var, y_var, x_label, y_label, title, outp
     # Create figure
     fig, ax = plt.subplots(figsize=(12, 8))
     
-    # Add scatter points, colored by region
+    # Create region codes with correct length
+    region_codes = pd.factorize(valid_data['region'])[0]
+    
+    # Add scatter points, colored by region - ensure array dimensions match
     scatter = ax.scatter(valid_data[x_var], valid_data[y_var], 
-                         c=pd.factorize(valid_data['region'])[0], 
+                         c=region_codes, 
                          s=100, alpha=0.7, cmap='viridis')
     
     # Add country labels
@@ -275,8 +283,9 @@ def plot_inequality_scatter(dataset, x_var, y_var, x_label, y_label, title, outp
         ax.yaxis.set_major_formatter(mtick.FuncFormatter(percentage_formatter))
     
     # Add legend for regions
+    unique_regions = sorted(valid_data['region'].unique())
     legend = ax.legend(handles=scatter.legend_elements()[0], 
-                      labels=sorted(valid_data['region'].unique()),
+                      labels=unique_regions,
                       title="Region",
                       loc='upper left',
                       bbox_to_anchor=(1.05, 1))
@@ -670,6 +679,11 @@ def create_all_visualizations(datasets, directory='wid_all_data'):
         if gdp_cols and inequality_cols:
             for gdp_col in gdp_cols[:1]:  # Just use the first GDP metric
                 for ineq_col in inequality_cols[:2]:  # Use the first couple inequality metrics
+                    # Skip if trying to plot a variable against itself
+                    if gdp_col == ineq_col:
+                        print(f"Skipping scatter plot of {gdp_col} against itself")
+                        continue
+                        
                     scatter_name = f"{gdp_col.replace('_value', '')}_vs_{ineq_col.replace('_value', '')}"
                     print(f"Creating scatter plot: {scatter_name}...")
                     

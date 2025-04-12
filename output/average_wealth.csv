@@ -1,0 +1,404 @@
+country,variable,percentile,year,value,age,pop,country_code,country_name
+BR,bhwealj992,p0p100,1995,-0.52,992,j,BR,Brazil
+BR,bhwealj992,p0p100,1996,-0.5199,992,j,BR,Brazil
+BR,bhwealj992,p0p100,1997,-0.5198,992,j,BR,Brazil
+BR,bhwealj992,p0p100,1998,-0.5202,992,j,BR,Brazil
+BR,bhwealj992,p0p100,1999,-0.5201,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2000,-0.5197,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2001,-0.5196000000000001,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2002,-0.5032,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2003,-0.5125000000000001,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2004,-0.5304,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2005,-0.4927,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2006,-0.493,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2007,-0.5191,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2008,-0.5116,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2009,-0.5176000000000001,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2010,-0.5057,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2011,-0.4926,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2012,-0.5074000000000001,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2013,-0.5222,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2014,-0.5179,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2015,-0.4976,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2016,-0.5136000000000001,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2017,-0.5218,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2018,-0.5273,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2019,-0.5494,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2020,-0.5009,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2021,-0.518,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2022,-0.5132,992,j,BR,Brazil
+BR,bhwealj992,p0p100,2023,-0.51,992,j,BR,Brazil
+CN,bhwealj992,p0p100,1978,-2.7037,992,j,CN,China
+CN,bhwealj992,p0p100,1979,-2.7036,992,j,CN,China
+CN,bhwealj992,p0p100,1980,-2.7037,992,j,CN,China
+CN,bhwealj992,p0p100,1981,-2.7037,992,j,CN,China
+CN,bhwealj992,p0p100,1982,-2.7037,992,j,CN,China
+CN,bhwealj992,p0p100,1983,-2.7037,992,j,CN,China
+CN,bhwealj992,p0p100,1984,-2.7037,992,j,CN,China
+CN,bhwealj992,p0p100,1985,-2.7039,992,j,CN,China
+CN,bhwealj992,p0p100,1986,-2.7037,992,j,CN,China
+CN,bhwealj992,p0p100,1987,-2.7038,992,j,CN,China
+CN,bhwealj992,p0p100,1988,-2.7036,992,j,CN,China
+CN,bhwealj992,p0p100,1989,-2.7036,992,j,CN,China
+CN,bhwealj992,p0p100,1990,-2.7037,992,j,CN,China
+CN,bhwealj992,p0p100,1991,-2.7038,992,j,CN,China
+CN,bhwealj992,p0p100,1992,-2.7037,992,j,CN,China
+CN,bhwealj992,p0p100,1993,-2.7037,992,j,CN,China
+CN,bhwealj992,p0p100,1994,-2.7036,992,j,CN,China
+CN,bhwealj992,p0p100,1995,-2.7082,992,j,CN,China
+CN,bhwealj992,p0p100,1996,-2.048,992,j,CN,China
+CN,bhwealj992,p0p100,1997,-1.734,992,j,CN,China
+CN,bhwealj992,p0p100,1998,-1.5499,992,j,CN,China
+CN,bhwealj992,p0p100,1999,-1.4288,992,j,CN,China
+CN,bhwealj992,p0p100,2000,-1.3431,992,j,CN,China
+CN,bhwealj992,p0p100,2001,-1.2793,992,j,CN,China
+CN,bhwealj992,p0p100,2002,-1.2301,992,j,CN,China
+CN,bhwealj992,p0p100,2003,-1.2302,992,j,CN,China
+CN,bhwealj992,p0p100,2004,-1.2698,992,j,CN,China
+CN,bhwealj992,p0p100,2005,-1.3145,992,j,CN,China
+CN,bhwealj992,p0p100,2006,-1.3613,992,j,CN,China
+CN,bhwealj992,p0p100,2007,-1.4194,992,j,CN,China
+CN,bhwealj992,p0p100,2008,-1.4555,992,j,CN,China
+CN,bhwealj992,p0p100,2009,-1.5003,992,j,CN,China
+CN,bhwealj992,p0p100,2010,-2.041,992,j,CN,China
+CN,bhwealj992,p0p100,2011,-1.8106,992,j,CN,China
+CN,bhwealj992,p0p100,2012,-1.7983,992,j,CN,China
+CN,bhwealj992,p0p100,2013,-1.7992,992,j,CN,China
+CN,bhwealj992,p0p100,2014,-1.8088,992,j,CN,China
+CN,bhwealj992,p0p100,2015,-1.8459,992,j,CN,China
+CN,bhwealj992,p0p100,2016,-1.846,992,j,CN,China
+CN,bhwealj992,p0p100,2017,-1.8452,992,j,CN,China
+CN,bhwealj992,p0p100,2018,-1.8457,992,j,CN,China
+CN,bhwealj992,p0p100,2019,-1.846,992,j,CN,China
+CN,bhwealj992,p0p100,2020,-1.8447,992,j,CN,China
+CN,bhwealj992,p0p100,2021,-1.8494,992,j,CN,China
+CN,bhwealj992,p0p100,2022,-1.8436,992,j,CN,China
+CN,bhwealj992,p0p100,2023,-1.8436,992,j,CN,China
+EG,bhwealj992,p0p100,1995,-0.8625,992,j,EG,Egypt
+EG,bhwealj992,p0p100,1996,-0.8500000000000001,992,j,EG,Egypt
+EG,bhwealj992,p0p100,1997,-0.8211,992,j,EG,Egypt
+EG,bhwealj992,p0p100,1998,-0.7961,992,j,EG,Egypt
+EG,bhwealj992,p0p100,1999,-0.7675000000000001,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2000,-0.7722,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2001,-0.7793,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2002,-0.786,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2003,-0.793,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2004,-0.7983,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2005,-0.8007000000000001,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2006,-0.8012,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2007,-0.8117000000000001,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2008,-0.8298000000000001,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2009,-0.8181,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2010,-0.8386,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2011,-0.8395,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2012,-0.8286,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2013,-0.8190000000000001,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2014,-0.8082,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2015,-0.7898000000000001,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2016,-0.801,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2017,-0.8283,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2018,-0.8248000000000001,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2019,-0.8169000000000001,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2020,-0.8303,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2021,-0.8298000000000001,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2022,-0.8302,992,j,EG,Egypt
+EG,bhwealj992,p0p100,2023,-0.8395,992,j,EG,Egypt
+FR,bhwealj992,p0p100,2017,-41486.19921875,992,j,FR,France
+DE,bhwealj992,p0p100,1993,-0.8468,992,j,DE,Germany
+DE,bhwealj992,p0p100,1995,-1.0042,992,j,DE,Germany
+DE,bhwealj992,p0p100,1996,-1.0067,992,j,DE,Germany
+DE,bhwealj992,p0p100,1997,-1.001,992,j,DE,Germany
+DE,bhwealj992,p0p100,1998,-0.9958,992,j,DE,Germany
+DE,bhwealj992,p0p100,1999,-0.9111,992,j,DE,Germany
+DE,bhwealj992,p0p100,2000,-0.8232,992,j,DE,Germany
+DE,bhwealj992,p0p100,2001,-0.7488,992,j,DE,Germany
+DE,bhwealj992,p0p100,2002,-0.6893,992,j,DE,Germany
+DE,bhwealj992,p0p100,2003,-0.6388,992,j,DE,Germany
+DE,bhwealj992,p0p100,2004,-0.687,992,j,DE,Germany
+DE,bhwealj992,p0p100,2005,-0.7361000000000001,992,j,DE,Germany
+DE,bhwealj992,p0p100,2006,-0.7898000000000001,992,j,DE,Germany
+DE,bhwealj992,p0p100,2007,-0.8534,992,j,DE,Germany
+DE,bhwealj992,p0p100,2008,-0.9263,992,j,DE,Germany
+DE,bhwealj992,p0p100,2009,-0.9855,992,j,DE,Germany
+DE,bhwealj992,p0p100,2010,-1.0676,992,j,DE,Germany
+DE,bhwealj992,p0p100,2011,-1.1648,992,j,DE,Germany
+DE,bhwealj992,p0p100,2012,-1.2763,992,j,DE,Germany
+DE,bhwealj992,p0p100,2013,-1.4185,992,j,DE,Germany
+DE,bhwealj992,p0p100,2014,-1.6424,992,j,DE,Germany
+DE,bhwealj992,p0p100,2015,-1.9318,992,j,DE,Germany
+DE,bhwealj992,p0p100,2016,-2.3432,992,j,DE,Germany
+DE,bhwealj992,p0p100,2017,-2.9658,992,j,DE,Germany
+DE,bhwealj992,p0p100,2018,-4.079000000000001,992,j,DE,Germany
+DE,bhwealj992,p0p100,2019,-4.0507,992,j,DE,Germany
+DE,bhwealj992,p0p100,2020,-4.0266,992,j,DE,Germany
+DE,bhwealj992,p0p100,2021,-4.051,992,j,DE,Germany
+DE,bhwealj992,p0p100,2022,-4.0419,992,j,DE,Germany
+DE,bhwealj992,p0p100,2023,-4.032,992,j,DE,Germany
+IN,bhwealj992,p0p100,1991,-4.1452,992,j,IN,India
+IN,bhwealj992,p0p100,1995,-1.1521,992,j,IN,India
+IN,bhwealj992,p0p100,1996,-1.1518,992,j,IN,India
+IN,bhwealj992,p0p100,1997,-1.1525,992,j,IN,India
+IN,bhwealj992,p0p100,1998,-1.1529,992,j,IN,India
+IN,bhwealj992,p0p100,1999,-1.1532,992,j,IN,India
+IN,bhwealj992,p0p100,2000,-1.1534,992,j,IN,India
+IN,bhwealj992,p0p100,2001,-1.1542,992,j,IN,India
+IN,bhwealj992,p0p100,2002,-1.1545,992,j,IN,India
+IN,bhwealj992,p0p100,2003,-1.1489,992,j,IN,India
+IN,bhwealj992,p0p100,2004,-1.1746,992,j,IN,India
+IN,bhwealj992,p0p100,2005,-1.1836,992,j,IN,India
+IN,bhwealj992,p0p100,2006,-1.2269,992,j,IN,India
+IN,bhwealj992,p0p100,2007,-1.3038,992,j,IN,India
+IN,bhwealj992,p0p100,2008,-2.3745,992,j,IN,India
+IN,bhwealj992,p0p100,2009,-2.2857,992,j,IN,India
+IN,bhwealj992,p0p100,2010,-2.389,992,j,IN,India
+IN,bhwealj992,p0p100,2011,-2.444,992,j,IN,India
+IN,bhwealj992,p0p100,2012,-2.3553,992,j,IN,India
+IN,bhwealj992,p0p100,2013,-2.3651,992,j,IN,India
+IN,bhwealj992,p0p100,2014,-2.3417,992,j,IN,India
+IN,bhwealj992,p0p100,2015,-2.4411,992,j,IN,India
+IN,bhwealj992,p0p100,2016,-2.4172,992,j,IN,India
+IN,bhwealj992,p0p100,2017,-2.4548,992,j,IN,India
+IN,bhwealj992,p0p100,2018,-1.7608,992,j,IN,India
+IN,bhwealj992,p0p100,2019,-1.7376,992,j,IN,India
+IN,bhwealj992,p0p100,2020,-1.7024,992,j,IN,India
+IN,bhwealj992,p0p100,2021,-1.8084,992,j,IN,India
+IN,bhwealj992,p0p100,2022,-1.8414,992,j,IN,India
+IN,bhwealj992,p0p100,2023,-1.8404,992,j,IN,India
+ID,bhwealj992,p0p100,1995,-6.5799,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,1996,-6.2038,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,1997,-7.841,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,1998,-8.1796,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,1999,-8.1311,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2000,-8.1112,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2001,-5.7511,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2002,-4.452,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2003,-3.6329,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2004,-3.0715,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2005,-2.6619,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2006,-2.3442,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2007,-2.0937,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2008,-1.5014,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2009,-1.1645,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2010,-0.9552,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2011,-0.8132,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2012,-0.7065,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2013,-0.6277,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2014,-0.5605,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2015,-0.5576,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2016,-0.5592,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2017,-0.5615,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2018,-0.5527000000000001,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2019,-0.5521,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2020,-0.5475,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2021,-0.5531,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2022,-0.555,992,j,ID,Indonesia
+ID,bhwealj992,p0p100,2023,-0.5574,992,j,ID,Indonesia
+JP,bhwealj992,p0p100,1995,-0.8787,992,j,JP,Japan
+JP,bhwealj992,p0p100,1996,-0.8794000000000001,992,j,JP,Japan
+JP,bhwealj992,p0p100,1997,-0.8788,992,j,JP,Japan
+JP,bhwealj992,p0p100,1998,-0.8789,992,j,JP,Japan
+JP,bhwealj992,p0p100,1999,-0.8788,992,j,JP,Japan
+JP,bhwealj992,p0p100,2000,-0.8804000000000001,992,j,JP,Japan
+JP,bhwealj992,p0p100,2001,-0.8784000000000001,992,j,JP,Japan
+JP,bhwealj992,p0p100,2002,-0.8776,992,j,JP,Japan
+JP,bhwealj992,p0p100,2003,-0.8765000000000001,992,j,JP,Japan
+JP,bhwealj992,p0p100,2004,-0.8746,992,j,JP,Japan
+JP,bhwealj992,p0p100,2005,-0.8742000000000001,992,j,JP,Japan
+JP,bhwealj992,p0p100,2006,-0.8738,992,j,JP,Japan
+JP,bhwealj992,p0p100,2007,-0.8732000000000001,992,j,JP,Japan
+JP,bhwealj992,p0p100,2008,-0.8751,992,j,JP,Japan
+JP,bhwealj992,p0p100,2009,-0.877,992,j,JP,Japan
+JP,bhwealj992,p0p100,2010,-0.876,992,j,JP,Japan
+JP,bhwealj992,p0p100,2011,-0.8762000000000001,992,j,JP,Japan
+JP,bhwealj992,p0p100,2012,-0.8761,992,j,JP,Japan
+JP,bhwealj992,p0p100,2013,-0.8758,992,j,JP,Japan
+JP,bhwealj992,p0p100,2014,-0.8758,992,j,JP,Japan
+JP,bhwealj992,p0p100,2015,-0.8757,992,j,JP,Japan
+JP,bhwealj992,p0p100,2016,-0.8758,992,j,JP,Japan
+JP,bhwealj992,p0p100,2017,-0.8759,992,j,JP,Japan
+JP,bhwealj992,p0p100,2018,-0.8759,992,j,JP,Japan
+JP,bhwealj992,p0p100,2019,-0.8759,992,j,JP,Japan
+JP,bhwealj992,p0p100,2020,-0.8758,992,j,JP,Japan
+JP,bhwealj992,p0p100,2021,-0.8759,992,j,JP,Japan
+JP,bhwealj992,p0p100,2022,-0.8759,992,j,JP,Japan
+JP,bhwealj992,p0p100,2023,-0.8759,992,j,JP,Japan
+NG,bhwealj992,p0p100,1995,-0.8633000000000001,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,1996,-0.8635,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,1997,-0.8643000000000001,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,1998,-0.8646,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,1999,-0.8649,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2000,-0.8652000000000001,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2001,-0.8654000000000001,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2002,-0.8665,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2003,-0.8668,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2004,-0.8689,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2005,-0.8721,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2006,-0.874,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2007,-0.875,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2008,-0.876,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2009,-0.8769,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2010,-0.8778,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2011,-0.8819,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2012,-0.8809,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2013,-0.883,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2014,-0.8883000000000001,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2015,-0.8833000000000001,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2016,-0.8898,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2017,-0.8857,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2018,-0.8862,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2019,-0.8854000000000001,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2020,-0.8832000000000001,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2021,-0.889,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2022,-0.8903000000000001,992,j,NG,Nigeria
+NG,bhwealj992,p0p100,2023,-0.9057,992,j,NG,Nigeria
+RU,bhwealj992,p0p100,1995,-11.8035,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,1996,-12.4649,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,1997,-13.327,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,1998,-14.2324,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,1999,-15.7375,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2000,-14.4778,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2001,-13.6076,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2002,-9.0967,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2003,-9.7265,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2004,-2.3017,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2005,-2.1532,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2006,-1.9457,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2007,-1.7617,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2008,-1.6887,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2009,-1.36,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2010,-1.7068,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2011,-1.7807,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2012,-1.8914,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2013,-2.154,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2014,-2.5116,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2015,-2.7534,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2016,-2.7431,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2017,-2.7718,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2018,-2.7649,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2019,-2.7576,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2020,-2.2686,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2021,-2.3194,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2022,-2.2677,992,j,RU,Russian Federation
+RU,bhwealj992,p0p100,2023,-2.2807,992,j,RU,Russian Federation
+ZA,bhwealj992,p0p100,1993,-1.1859,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,1994,-0.4522,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,1995,-0.1411,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,1996,-0.1462,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,1997,-0.1713,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,1998,-0.2107,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,1999,-0.3129,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2000,-0.3988,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2001,-0.5640000000000001,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2002,-0.7408,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2003,-0.9046,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2004,-1.1156,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2005,-1.1129,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2006,-0.5642,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2007,-0.2006,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2008,-0.097,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2009,-0.0892,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2010,-0.0914,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2011,-0.1071,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2012,-0.1336,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2013,-0.1776,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2014,-0.2407,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2015,-0.2637,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2016,-0.2624,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2017,-0.2825,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2018,-0.2824,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2019,-0.2825,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2020,-0.2825,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2021,-0.2828,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2022,-0.2826,992,j,ZA,South Africa
+ZA,bhwealj992,p0p100,2023,-0.2826,992,j,ZA,South Africa
+US,bhwealj992,p0p100,1962,-3.0507,992,j,US,USA
+US,bhwealj992,p0p100,1963,-3.0584,992,j,US,USA
+US,bhwealj992,p0p100,1964,-3.0659,992,j,US,USA
+US,bhwealj992,p0p100,1965,-3.0863,992,j,US,USA
+US,bhwealj992,p0p100,1966,-3.106,992,j,US,USA
+US,bhwealj992,p0p100,1967,-2.4765,992,j,US,USA
+US,bhwealj992,p0p100,1968,-3.3903,992,j,US,USA
+US,bhwealj992,p0p100,1969,-2.6479,992,j,US,USA
+US,bhwealj992,p0p100,1970,-3.4055,992,j,US,USA
+US,bhwealj992,p0p100,1971,-2.7224,992,j,US,USA
+US,bhwealj992,p0p100,1972,-3.6825,992,j,US,USA
+US,bhwealj992,p0p100,1973,-3.4003,992,j,US,USA
+US,bhwealj992,p0p100,1974,-2.2284,992,j,US,USA
+US,bhwealj992,p0p100,1975,-3.0865,992,j,US,USA
+US,bhwealj992,p0p100,1976,-2.7241,992,j,US,USA
+US,bhwealj992,p0p100,1977,-3.356,992,j,US,USA
+US,bhwealj992,p0p100,1978,-2.5493,992,j,US,USA
+US,bhwealj992,p0p100,1979,-3.0256,992,j,US,USA
+US,bhwealj992,p0p100,1980,-3.2154,992,j,US,USA
+US,bhwealj992,p0p100,1981,-3.2377,992,j,US,USA
+US,bhwealj992,p0p100,1982,-3.5598,992,j,US,USA
+US,bhwealj992,p0p100,1983,-3.7044,992,j,US,USA
+US,bhwealj992,p0p100,1984,-3.4308,992,j,US,USA
+US,bhwealj992,p0p100,1985,-3.5249,992,j,US,USA
+US,bhwealj992,p0p100,1986,-3.733,992,j,US,USA
+US,bhwealj992,p0p100,1987,-4.0524,992,j,US,USA
+US,bhwealj992,p0p100,1988,-4.1721,992,j,US,USA
+US,bhwealj992,p0p100,1989,-4.577900000000001,992,j,US,USA
+US,bhwealj992,p0p100,1990,-4.0937,992,j,US,USA
+US,bhwealj992,p0p100,1991,-4.3592,992,j,US,USA
+US,bhwealj992,p0p100,1992,-4.021,992,j,US,USA
+US,bhwealj992,p0p100,1993,-4.2537,992,j,US,USA
+US,bhwealj992,p0p100,1994,-3.9845,992,j,US,USA
+US,bhwealj992,p0p100,1995,-3.8283,992,j,US,USA
+US,bhwealj992,p0p100,1996,-4.0857,992,j,US,USA
+US,bhwealj992,p0p100,1997,-4.3341,992,j,US,USA
+US,bhwealj992,p0p100,1998,-4.5369,992,j,US,USA
+US,bhwealj992,p0p100,1999,-4.682700000000001,992,j,US,USA
+US,bhwealj992,p0p100,2000,-4.4082,992,j,US,USA
+US,bhwealj992,p0p100,2001,-3.7274,992,j,US,USA
+US,bhwealj992,p0p100,2002,-3.365,992,j,US,USA
+US,bhwealj992,p0p100,2003,-2.9981,992,j,US,USA
+US,bhwealj992,p0p100,2004,-2.945,992,j,US,USA
+US,bhwealj992,p0p100,2005,-2.9291,992,j,US,USA
+US,bhwealj992,p0p100,2006,-2.7402,992,j,US,USA
+US,bhwealj992,p0p100,2007,-2.4319,992,j,US,USA
+US,bhwealj992,p0p100,2008,-2.0001,992,j,US,USA
+US,bhwealj992,p0p100,2009,-1.7112,992,j,US,USA
+US,bhwealj992,p0p100,2010,-1.787,992,j,US,USA
+US,bhwealj992,p0p100,2011,-1.8788,992,j,US,USA
+US,bhwealj992,p0p100,2012,-2.0525,992,j,US,USA
+US,bhwealj992,p0p100,2013,-2.3587,992,j,US,USA
+US,bhwealj992,p0p100,2014,-2.6882,992,j,US,USA
+US,bhwealj992,p0p100,2015,-2.9096,992,j,US,USA
+US,bhwealj992,p0p100,2016,-2.9875,992,j,US,USA
+US,bhwealj992,p0p100,2017,-3.3187,992,j,US,USA
+US,bhwealj992,p0p100,2018,-3.3029,992,j,US,USA
+US,bhwealj992,p0p100,2019,-3.4153,992,j,US,USA
+US,bhwealj992,p0p100,2020,-4.2243,992,j,US,USA
+US,bhwealj992,p0p100,2021,-5.1862,992,j,US,USA
+US,bhwealj992,p0p100,2022,-5.1367,992,j,US,USA
+US,bhwealj992,p0p100,2023,-5.155600000000001,992,j,US,USA
+GB,bhwealj992,p0p100,1995,-1.957,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,1996,-1.4757,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,1997,-1.3765,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,1998,-1.5909,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,1999,-1.7384,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2000,-1.8536,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2001,-1.6676,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2002,-1.5003,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2003,-1.5117,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2004,-1.6014,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2005,-1.5546,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2006,-1.5096,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2007,-1.7631,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2008,-2.312,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2009,-1.8798,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2010,-1.9331,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2011,-1.7129,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2012,-2.1187,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2013,-2.4269,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2014,-2.2709,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2015,-2.4187,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2016,-2.6767,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2017,-3.205,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2018,-3.7213,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2019,-3.7123,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2020,-3.7059,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2021,-3.7151,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2022,-3.7115,992,j,GB,United Kingdom
+GB,bhwealj992,p0p100,2023,-3.7164,992,j,GB,United Kingdom

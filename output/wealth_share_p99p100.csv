@@ -1,0 +1,698 @@
+country,variable,percentile,year,value,age,pop,country_code,country_name
+BR,shwealj992,p99p100,1995,0.3636,992,j,BR,Brazil
+BR,shwealj992,p99p100,1996,0.3636,992,j,BR,Brazil
+BR,shwealj992,p99p100,1997,0.3637,992,j,BR,Brazil
+BR,shwealj992,p99p100,1998,0.3635,992,j,BR,Brazil
+BR,shwealj992,p99p100,1999,0.3636,992,j,BR,Brazil
+BR,shwealj992,p99p100,2000,0.3637,992,j,BR,Brazil
+BR,shwealj992,p99p100,2001,0.3637,992,j,BR,Brazil
+BR,shwealj992,p99p100,2002,0.3693,992,j,BR,Brazil
+BR,shwealj992,p99p100,2003,0.3661,992,j,BR,Brazil
+BR,shwealj992,p99p100,2004,0.3602,992,j,BR,Brazil
+BR,shwealj992,p99p100,2005,0.3729,992,j,BR,Brazil
+BR,shwealj992,p99p100,2006,0.3728,992,j,BR,Brazil
+BR,shwealj992,p99p100,2007,0.3639,992,j,BR,Brazil
+BR,shwealj992,p99p100,2008,0.3664,992,j,BR,Brazil
+BR,shwealj992,p99p100,2009,0.3644,992,j,BR,Brazil
+BR,shwealj992,p99p100,2010,0.3684,992,j,BR,Brazil
+BR,shwealj992,p99p100,2011,0.3729,992,j,BR,Brazil
+BR,shwealj992,p99p100,2012,0.3678,992,j,BR,Brazil
+BR,shwealj992,p99p100,2013,0.3629,992,j,BR,Brazil
+BR,shwealj992,p99p100,2014,0.3643,992,j,BR,Brazil
+BR,shwealj992,p99p100,2015,0.3712,992,j,BR,Brazil
+BR,shwealj992,p99p100,2016,0.3657,992,j,BR,Brazil
+BR,shwealj992,p99p100,2017,0.363,992,j,BR,Brazil
+BR,shwealj992,p99p100,2018,0.3612,992,j,BR,Brazil
+BR,shwealj992,p99p100,2019,0.3571,992,j,BR,Brazil
+BR,shwealj992,p99p100,2020,0.37,992,j,BR,Brazil
+BR,shwealj992,p99p100,2021,0.3787,992,j,BR,Brazil
+BR,shwealj992,p99p100,2022,0.3706,992,j,BR,Brazil
+BR,shwealj992,p99p100,2023,0.3669,992,j,BR,Brazil
+CN,shwealj992,p99p100,1978,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1979,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1980,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1981,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1982,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1983,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1984,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1985,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1986,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1987,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1988,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1989,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1990,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1991,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1992,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1993,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1994,0.158,992,j,CN,China
+CN,shwealj992,p99p100,1995,0.1594,992,j,CN,China
+CN,shwealj992,p99p100,1996,0.1701,992,j,CN,China
+CN,shwealj992,p99p100,1997,0.1792,992,j,CN,China
+CN,shwealj992,p99p100,1998,0.1863,992,j,CN,China
+CN,shwealj992,p99p100,1999,0.1919,992,j,CN,China
+CN,shwealj992,p99p100,2000,0.1965,992,j,CN,China
+CN,shwealj992,p99p100,2001,0.2003,992,j,CN,China
+CN,shwealj992,p99p100,2002,0.2035,992,j,CN,China
+CN,shwealj992,p99p100,2003,0.205,992,j,CN,China
+CN,shwealj992,p99p100,2004,0.2245,992,j,CN,China
+CN,shwealj992,p99p100,2005,0.237,992,j,CN,China
+CN,shwealj992,p99p100,2006,0.262,992,j,CN,China
+CN,shwealj992,p99p100,2007,0.2848,992,j,CN,China
+CN,shwealj992,p99p100,2008,0.2925,992,j,CN,China
+CN,shwealj992,p99p100,2009,0.3115,992,j,CN,China
+CN,shwealj992,p99p100,2010,0.3045,992,j,CN,China
+CN,shwealj992,p99p100,2011,0.2805,992,j,CN,China
+CN,shwealj992,p99p100,2012,0.2729,992,j,CN,China
+CN,shwealj992,p99p100,2013,0.2725,992,j,CN,China
+CN,shwealj992,p99p100,2014,0.2783,992,j,CN,China
+CN,shwealj992,p99p100,2015,0.2963,992,j,CN,China
+CN,shwealj992,p99p100,2016,0.2965,992,j,CN,China
+CN,shwealj992,p99p100,2017,0.3003,992,j,CN,China
+CN,shwealj992,p99p100,2018,0.2991,992,j,CN,China
+CN,shwealj992,p99p100,2019,0.298,992,j,CN,China
+CN,shwealj992,p99p100,2020,0.3012,992,j,CN,China
+CN,shwealj992,p99p100,2021,0.3043,992,j,CN,China
+CN,shwealj992,p99p100,2022,0.3026,992,j,CN,China
+CN,shwealj992,p99p100,2023,0.3026,992,j,CN,China
+EG,shwealj992,p99p100,1995,0.2583,992,j,EG,Egypt
+EG,shwealj992,p99p100,1996,0.2646,992,j,EG,Egypt
+EG,shwealj992,p99p100,1997,0.2757,992,j,EG,Egypt
+EG,shwealj992,p99p100,1998,0.2838,992,j,EG,Egypt
+EG,shwealj992,p99p100,1999,0.2922,992,j,EG,Egypt
+EG,shwealj992,p99p100,2000,0.2908,992,j,EG,Egypt
+EG,shwealj992,p99p100,2001,0.2888,992,j,EG,Egypt
+EG,shwealj992,p99p100,2002,0.2868,992,j,EG,Egypt
+EG,shwealj992,p99p100,2003,0.2847,992,j,EG,Egypt
+EG,shwealj992,p99p100,2004,0.2831,992,j,EG,Egypt
+EG,shwealj992,p99p100,2005,0.2823,992,j,EG,Egypt
+EG,shwealj992,p99p100,2006,0.2822,992,j,EG,Egypt
+EG,shwealj992,p99p100,2007,0.291,992,j,EG,Egypt
+EG,shwealj992,p99p100,2008,0.3048,992,j,EG,Egypt
+EG,shwealj992,p99p100,2009,0.2767,992,j,EG,Egypt
+EG,shwealj992,p99p100,2010,0.272,992,j,EG,Egypt
+EG,shwealj992,p99p100,2011,0.2795,992,j,EG,Egypt
+EG,shwealj992,p99p100,2012,0.2782,992,j,EG,Egypt
+EG,shwealj992,p99p100,2013,0.2837,992,j,EG,Egypt
+EG,shwealj992,p99p100,2014,0.2883,992,j,EG,Egypt
+EG,shwealj992,p99p100,2015,0.2913,992,j,EG,Egypt
+EG,shwealj992,p99p100,2016,0.2844,992,j,EG,Egypt
+EG,shwealj992,p99p100,2017,0.2941,992,j,EG,Egypt
+EG,shwealj992,p99p100,2018,0.2935,992,j,EG,Egypt
+EG,shwealj992,p99p100,2019,0.2889,992,j,EG,Egypt
+EG,shwealj992,p99p100,2020,0.28,992,j,EG,Egypt
+EG,shwealj992,p99p100,2021,0.2795,992,j,EG,Egypt
+EG,shwealj992,p99p100,2022,0.2798,992,j,EG,Egypt
+EG,shwealj992,p99p100,2023,0.2878,992,j,EG,Egypt
+FR,shwealj992,p99p100,1807,0.4414,992,j,FR,France
+FR,shwealj992,p99p100,1817,0.4844,992,j,FR,France
+FR,shwealj992,p99p100,1827,0.4667,992,j,FR,France
+FR,shwealj992,p99p100,1837,0.4578,992,j,FR,France
+FR,shwealj992,p99p100,1847,0.5118,992,j,FR,France
+FR,shwealj992,p99p100,1857,0.5156000000000001,992,j,FR,France
+FR,shwealj992,p99p100,1867,0.4927,992,j,FR,France
+FR,shwealj992,p99p100,1877,0.4536,992,j,FR,France
+FR,shwealj992,p99p100,1887,0.4894,992,j,FR,France
+FR,shwealj992,p99p100,1902,0.5236000000000001,992,j,FR,France
+FR,shwealj992,p99p100,1903,0.5437000000000001,992,j,FR,France
+FR,shwealj992,p99p100,1904,0.5633,992,j,FR,France
+FR,shwealj992,p99p100,1905,0.5690000000000001,992,j,FR,France
+FR,shwealj992,p99p100,1907,0.5441,992,j,FR,France
+FR,shwealj992,p99p100,1909,0.5538000000000001,992,j,FR,France
+FR,shwealj992,p99p100,1910,0.5402,992,j,FR,France
+FR,shwealj992,p99p100,1911,0.5541,992,j,FR,France
+FR,shwealj992,p99p100,1912,0.553,992,j,FR,France
+FR,shwealj992,p99p100,1913,0.5456,992,j,FR,France
+FR,shwealj992,p99p100,1914,0.5456,992,j,FR,France
+FR,shwealj992,p99p100,1915,0.54,992,j,FR,France
+FR,shwealj992,p99p100,1916,0.5376000000000001,992,j,FR,France
+FR,shwealj992,p99p100,1917,0.5349,992,j,FR,France
+FR,shwealj992,p99p100,1918,0.5281,992,j,FR,France
+FR,shwealj992,p99p100,1919,0.5201,992,j,FR,France
+FR,shwealj992,p99p100,1920,0.5046,992,j,FR,France
+FR,shwealj992,p99p100,1921,0.4940000000000001,992,j,FR,France
+FR,shwealj992,p99p100,1922,0.4846,992,j,FR,France
+FR,shwealj992,p99p100,1923,0.4773,992,j,FR,France
+FR,shwealj992,p99p100,1924,0.4743,992,j,FR,France
+FR,shwealj992,p99p100,1925,0.447,992,j,FR,France
+FR,shwealj992,p99p100,1926,0.4536,992,j,FR,France
+FR,shwealj992,p99p100,1927,0.4774,992,j,FR,France
+FR,shwealj992,p99p100,1929,0.4908,992,j,FR,France
+FR,shwealj992,p99p100,1930,0.4961,992,j,FR,France
+FR,shwealj992,p99p100,1931,0.4633,992,j,FR,France
+FR,shwealj992,p99p100,1932,0.4479,992,j,FR,France
+FR,shwealj992,p99p100,1933,0.446,992,j,FR,France
+FR,shwealj992,p99p100,1935,0.4375,992,j,FR,France
+FR,shwealj992,p99p100,1936,0.4327,992,j,FR,France
+FR,shwealj992,p99p100,1937,0.4264,992,j,FR,France
+FR,shwealj992,p99p100,1938,0.3969,992,j,FR,France
+FR,shwealj992,p99p100,1939,0.3999,992,j,FR,France
+FR,shwealj992,p99p100,1940,0.3478,992,j,FR,France
+FR,shwealj992,p99p100,1941,0.3484,992,j,FR,France
+FR,shwealj992,p99p100,1942,0.3625,992,j,FR,France
+FR,shwealj992,p99p100,1943,0.3805,992,j,FR,France
+FR,shwealj992,p99p100,1944,0.3784,992,j,FR,France
+FR,shwealj992,p99p100,1945,0.3517,992,j,FR,France
+FR,shwealj992,p99p100,1946,0.307,992,j,FR,France
+FR,shwealj992,p99p100,1947,0.3024,992,j,FR,France
+FR,shwealj992,p99p100,1948,0.3057,992,j,FR,France
+FR,shwealj992,p99p100,1949,0.3326,992,j,FR,France
+FR,shwealj992,p99p100,1950,0.3338,992,j,FR,France
+FR,shwealj992,p99p100,1951,0.3272,992,j,FR,France
+FR,shwealj992,p99p100,1952,0.3206,992,j,FR,France
+FR,shwealj992,p99p100,1953,0.319,992,j,FR,France
+FR,shwealj992,p99p100,1954,0.3043,992,j,FR,France
+FR,shwealj992,p99p100,1955,0.3108,992,j,FR,France
+FR,shwealj992,p99p100,1956,0.3133,992,j,FR,France
+FR,shwealj992,p99p100,1957,0.3324,992,j,FR,France
+FR,shwealj992,p99p100,1958,0.3112,992,j,FR,France
+FR,shwealj992,p99p100,1959,0.3256,992,j,FR,France
+FR,shwealj992,p99p100,1960,0.3144,992,j,FR,France
+FR,shwealj992,p99p100,1962,0.3201,992,j,FR,France
+FR,shwealj992,p99p100,1964,0.3255,992,j,FR,France
+FR,shwealj992,p99p100,1965,0.3186,992,j,FR,France
+FR,shwealj992,p99p100,1966,0.3049,992,j,FR,France
+FR,shwealj992,p99p100,1967,0.292,992,j,FR,France
+FR,shwealj992,p99p100,1968,0.2571,992,j,FR,France
+FR,shwealj992,p99p100,1969,0.2333,992,j,FR,France
+FR,shwealj992,p99p100,1970,0.2032,992,j,FR,France
+FR,shwealj992,p99p100,1971,0.1984,992,j,FR,France
+FR,shwealj992,p99p100,1972,0.1978,992,j,FR,France
+FR,shwealj992,p99p100,1973,0.1978,992,j,FR,France
+FR,shwealj992,p99p100,1974,0.1913,992,j,FR,France
+FR,shwealj992,p99p100,1975,0.1868,992,j,FR,France
+FR,shwealj992,p99p100,1976,0.183,992,j,FR,France
+FR,shwealj992,p99p100,1977,0.1787,992,j,FR,France
+FR,shwealj992,p99p100,1978,0.176,992,j,FR,France
+FR,shwealj992,p99p100,1979,0.1742,992,j,FR,France
+FR,shwealj992,p99p100,1980,0.1721,992,j,FR,France
+FR,shwealj992,p99p100,1981,0.1667,992,j,FR,France
+FR,shwealj992,p99p100,1982,0.1618,992,j,FR,France
+FR,shwealj992,p99p100,1983,0.1593,992,j,FR,France
+FR,shwealj992,p99p100,1984,0.158,992,j,FR,France
+FR,shwealj992,p99p100,1985,0.1614,992,j,FR,France
+FR,shwealj992,p99p100,1986,0.1679,992,j,FR,France
+FR,shwealj992,p99p100,1987,0.1706,992,j,FR,France
+FR,shwealj992,p99p100,1988,0.1736,992,j,FR,France
+FR,shwealj992,p99p100,1989,0.1766,992,j,FR,France
+FR,shwealj992,p99p100,1990,0.1719,992,j,FR,France
+FR,shwealj992,p99p100,1991,0.181,992,j,FR,France
+FR,shwealj992,p99p100,1992,0.175,992,j,FR,France
+FR,shwealj992,p99p100,1993,0.1879,992,j,FR,France
+FR,shwealj992,p99p100,1994,0.1932,992,j,FR,France
+FR,shwealj992,p99p100,1995,0.2072,992,j,FR,France
+FR,shwealj992,p99p100,1996,0.2462,992,j,FR,France
+FR,shwealj992,p99p100,1997,0.2666,992,j,FR,France
+FR,shwealj992,p99p100,1998,0.2808,992,j,FR,France
+FR,shwealj992,p99p100,1999,0.2981,992,j,FR,France
+FR,shwealj992,p99p100,2000,0.2979,992,j,FR,France
+FR,shwealj992,p99p100,2001,0.2841,992,j,FR,France
+FR,shwealj992,p99p100,2002,0.2662,992,j,FR,France
+FR,shwealj992,p99p100,2003,0.2564,992,j,FR,France
+FR,shwealj992,p99p100,2004,0.2506,992,j,FR,France
+FR,shwealj992,p99p100,2005,0.2379,992,j,FR,France
+FR,shwealj992,p99p100,2006,0.2335,992,j,FR,France
+FR,shwealj992,p99p100,2007,0.2369,992,j,FR,France
+FR,shwealj992,p99p100,2008,0.2301,992,j,FR,France
+FR,shwealj992,p99p100,2009,0.2273,992,j,FR,France
+FR,shwealj992,p99p100,2010,0.2461,992,j,FR,France
+FR,shwealj992,p99p100,2011,0.2422,992,j,FR,France
+FR,shwealj992,p99p100,2012,0.2378,992,j,FR,France
+FR,shwealj992,p99p100,2013,0.2453,992,j,FR,France
+FR,shwealj992,p99p100,2014,0.2571,992,j,FR,France
+FR,shwealj992,p99p100,2015,0.2596,992,j,FR,France
+FR,shwealj992,p99p100,2016,0.2557,992,j,FR,France
+FR,shwealj992,p99p100,2017,0.2572,992,j,FR,France
+FR,shwealj992,p99p100,2018,0.2624,992,j,FR,France
+FR,shwealj992,p99p100,2019,0.2616,992,j,FR,France
+FR,shwealj992,p99p100,2020,0.2585,992,j,FR,France
+FR,shwealj992,p99p100,2021,0.2697,992,j,FR,France
+FR,shwealj992,p99p100,2022,0.2691,992,j,FR,France
+FR,shwealj992,p99p100,2023,0.2718,992,j,FR,France
+DE,shwealj992,p99p100,1895,0.4989,992,j,DE,Germany
+DE,shwealj992,p99p100,1896,0.4989,992,j,DE,Germany
+DE,shwealj992,p99p100,1897,0.5064000000000001,992,j,DE,Germany
+DE,shwealj992,p99p100,1899,0.5135000000000001,992,j,DE,Germany
+DE,shwealj992,p99p100,1902,0.5151,992,j,DE,Germany
+DE,shwealj992,p99p100,1905,0.5191,992,j,DE,Germany
+DE,shwealj992,p99p100,1908,0.5242,992,j,DE,Germany
+DE,shwealj992,p99p100,1911,0.5158,992,j,DE,Germany
+DE,shwealj992,p99p100,1914,0.4979,992,j,DE,Germany
+DE,shwealj992,p99p100,1924,0.3751,992,j,DE,Germany
+DE,shwealj992,p99p100,1927,0.4007,992,j,DE,Germany
+DE,shwealj992,p99p100,1930,0.3931,992,j,DE,Germany
+DE,shwealj992,p99p100,1934,0.3261,992,j,DE,Germany
+DE,shwealj992,p99p100,1953,0.2201,992,j,DE,Germany
+DE,shwealj992,p99p100,1957,0.2156,992,j,DE,Germany
+DE,shwealj992,p99p100,1960,0.2529,992,j,DE,Germany
+DE,shwealj992,p99p100,1963,0.2516,992,j,DE,Germany
+DE,shwealj992,p99p100,1966,0.246,992,j,DE,Germany
+DE,shwealj992,p99p100,1969,0.2154,992,j,DE,Germany
+DE,shwealj992,p99p100,1972,0.2302,992,j,DE,Germany
+DE,shwealj992,p99p100,1974,0.2655,992,j,DE,Germany
+DE,shwealj992,p99p100,1977,0.2677,992,j,DE,Germany
+DE,shwealj992,p99p100,1980,0.2696,992,j,DE,Germany
+DE,shwealj992,p99p100,1983,0.2477,992,j,DE,Germany
+DE,shwealj992,p99p100,1986,0.2349,992,j,DE,Germany
+DE,shwealj992,p99p100,1989,0.2239,992,j,DE,Germany
+DE,shwealj992,p99p100,1993,0.2289,992,j,DE,Germany
+DE,shwealj992,p99p100,1995,0.2657,992,j,DE,Germany
+DE,shwealj992,p99p100,1996,0.2678,992,j,DE,Germany
+DE,shwealj992,p99p100,1997,0.2638,992,j,DE,Germany
+DE,shwealj992,p99p100,1998,0.2602,992,j,DE,Germany
+DE,shwealj992,p99p100,1999,0.2704,992,j,DE,Germany
+DE,shwealj992,p99p100,2000,0.266,992,j,DE,Germany
+DE,shwealj992,p99p100,2001,0.262,992,j,DE,Germany
+DE,shwealj992,p99p100,2002,0.263,992,j,DE,Germany
+DE,shwealj992,p99p100,2003,0.2653,992,j,DE,Germany
+DE,shwealj992,p99p100,2004,0.2735,992,j,DE,Germany
+DE,shwealj992,p99p100,2005,0.2779,992,j,DE,Germany
+DE,shwealj992,p99p100,2006,0.28,992,j,DE,Germany
+DE,shwealj992,p99p100,2007,0.2858,992,j,DE,Germany
+DE,shwealj992,p99p100,2008,0.289,992,j,DE,Germany
+DE,shwealj992,p99p100,2009,0.2767,992,j,DE,Germany
+DE,shwealj992,p99p100,2010,0.2725,992,j,DE,Germany
+DE,shwealj992,p99p100,2011,0.2706,992,j,DE,Germany
+DE,shwealj992,p99p100,2012,0.2664,992,j,DE,Germany
+DE,shwealj992,p99p100,2013,0.2693,992,j,DE,Germany
+DE,shwealj992,p99p100,2014,0.2753,992,j,DE,Germany
+DE,shwealj992,p99p100,2015,0.2765,992,j,DE,Germany
+DE,shwealj992,p99p100,2016,0.2781,992,j,DE,Germany
+DE,shwealj992,p99p100,2017,0.2779,992,j,DE,Germany
+DE,shwealj992,p99p100,2018,0.2845,992,j,DE,Germany
+DE,shwealj992,p99p100,2019,0.2797,992,j,DE,Germany
+DE,shwealj992,p99p100,2020,0.2753,992,j,DE,Germany
+DE,shwealj992,p99p100,2021,0.2796,992,j,DE,Germany
+DE,shwealj992,p99p100,2022,0.278,992,j,DE,Germany
+DE,shwealj992,p99p100,2023,0.2762,992,j,DE,Germany
+IN,shwealj992,p99p100,1961,0.1292,992,j,IN,India
+IN,shwealj992,p99p100,1971,0.1224,992,j,IN,India
+IN,shwealj992,p99p100,1981,0.125,992,j,IN,India
+IN,shwealj992,p99p100,1991,0.1611,992,j,IN,India
+IN,shwealj992,p99p100,1995,0.244,992,j,IN,India
+IN,shwealj992,p99p100,1996,0.2435,992,j,IN,India
+IN,shwealj992,p99p100,1997,0.2449,992,j,IN,India
+IN,shwealj992,p99p100,1998,0.2458,992,j,IN,India
+IN,shwealj992,p99p100,1999,0.2464,992,j,IN,India
+IN,shwealj992,p99p100,2000,0.2472,992,j,IN,India
+IN,shwealj992,p99p100,2001,0.2501,992,j,IN,India
+IN,shwealj992,p99p100,2002,0.2545,992,j,IN,India
+IN,shwealj992,p99p100,2003,0.2512,992,j,IN,India
+IN,shwealj992,p99p100,2004,0.2676,992,j,IN,India
+IN,shwealj992,p99p100,2005,0.2728,992,j,IN,India
+IN,shwealj992,p99p100,2006,0.2988,992,j,IN,India
+IN,shwealj992,p99p100,2007,0.3401,992,j,IN,India
+IN,shwealj992,p99p100,2008,0.3136,992,j,IN,India
+IN,shwealj992,p99p100,2009,0.2871,992,j,IN,India
+IN,shwealj992,p99p100,2010,0.3178,992,j,IN,India
+IN,shwealj992,p99p100,2011,0.3331,992,j,IN,India
+IN,shwealj992,p99p100,2012,0.308,992,j,IN,India
+IN,shwealj992,p99p100,2013,0.3109,992,j,IN,India
+IN,shwealj992,p99p100,2014,0.3042,992,j,IN,India
+IN,shwealj992,p99p100,2015,0.3325,992,j,IN,India
+IN,shwealj992,p99p100,2016,0.3257,992,j,IN,India
+IN,shwealj992,p99p100,2017,0.3362,992,j,IN,India
+IN,shwealj992,p99p100,2018,0.3738,992,j,IN,India
+IN,shwealj992,p99p100,2019,0.3654,992,j,IN,India
+IN,shwealj992,p99p100,2020,0.3525,992,j,IN,India
+IN,shwealj992,p99p100,2021,0.3904,992,j,IN,India
+IN,shwealj992,p99p100,2022,0.4013,992,j,IN,India
+IN,shwealj992,p99p100,2023,0.4014,992,j,IN,India
+ID,shwealj992,p99p100,1995,0.2139,992,j,ID,Indonesia
+ID,shwealj992,p99p100,1996,0.2175,992,j,ID,Indonesia
+ID,shwealj992,p99p100,1997,0.2088,992,j,ID,Indonesia
+ID,shwealj992,p99p100,1998,0.2044,992,j,ID,Indonesia
+ID,shwealj992,p99p100,1999,0.1986,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2000,0.1969,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2001,0.1949,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2002,0.1924,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2003,0.1905,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2004,0.1894,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2005,0.1886,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2006,0.186,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2007,0.1834,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2008,0.185,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2009,0.1808,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2010,0.1807,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2011,0.1834,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2012,0.1831,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2013,0.1864,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2014,0.1824,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2015,0.1845,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2016,0.1791,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2017,0.178,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2018,0.1924,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2019,0.1916,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2020,0.1849,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2021,0.1932,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2022,0.1958,992,j,ID,Indonesia
+ID,shwealj992,p99p100,2023,0.1995,992,j,ID,Indonesia
+JP,shwealj992,p99p100,1995,0.2368,992,j,JP,Japan
+JP,shwealj992,p99p100,1996,0.2388,992,j,JP,Japan
+JP,shwealj992,p99p100,1997,0.2378,992,j,JP,Japan
+JP,shwealj992,p99p100,1998,0.2386,992,j,JP,Japan
+JP,shwealj992,p99p100,1999,0.2396,992,j,JP,Japan
+JP,shwealj992,p99p100,2000,0.2422,992,j,JP,Japan
+JP,shwealj992,p99p100,2001,0.2426,992,j,JP,Japan
+JP,shwealj992,p99p100,2002,0.2447,992,j,JP,Japan
+JP,shwealj992,p99p100,2003,0.2466,992,j,JP,Japan
+JP,shwealj992,p99p100,2004,0.2491,992,j,JP,Japan
+JP,shwealj992,p99p100,2005,0.2495,992,j,JP,Japan
+JP,shwealj992,p99p100,2006,0.25,992,j,JP,Japan
+JP,shwealj992,p99p100,2007,0.2505,992,j,JP,Japan
+JP,shwealj992,p99p100,2008,0.2485,992,j,JP,Japan
+JP,shwealj992,p99p100,2009,0.2457,992,j,JP,Japan
+JP,shwealj992,p99p100,2010,0.2473,992,j,JP,Japan
+JP,shwealj992,p99p100,2011,0.2471,992,j,JP,Japan
+JP,shwealj992,p99p100,2012,0.2472,992,j,JP,Japan
+JP,shwealj992,p99p100,2013,0.2476,992,j,JP,Japan
+JP,shwealj992,p99p100,2014,0.2475,992,j,JP,Japan
+JP,shwealj992,p99p100,2015,0.2477,992,j,JP,Japan
+JP,shwealj992,p99p100,2016,0.2476,992,j,JP,Japan
+JP,shwealj992,p99p100,2017,0.2475,992,j,JP,Japan
+JP,shwealj992,p99p100,2018,0.2474,992,j,JP,Japan
+JP,shwealj992,p99p100,2019,0.2475,992,j,JP,Japan
+JP,shwealj992,p99p100,2020,0.2475,992,j,JP,Japan
+JP,shwealj992,p99p100,2021,0.2474,992,j,JP,Japan
+JP,shwealj992,p99p100,2022,0.2475,992,j,JP,Japan
+JP,shwealj992,p99p100,2023,0.2475,992,j,JP,Japan
+NG,shwealj992,p99p100,1995,0.2578,992,j,NG,Nigeria
+NG,shwealj992,p99p100,1996,0.2577,992,j,NG,Nigeria
+NG,shwealj992,p99p100,1997,0.2572,992,j,NG,Nigeria
+NG,shwealj992,p99p100,1998,0.257,992,j,NG,Nigeria
+NG,shwealj992,p99p100,1999,0.2568,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2000,0.2567,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2001,0.2566,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2002,0.2558,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2003,0.2557,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2004,0.2541,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2005,0.2516,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2006,0.2498,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2007,0.2486,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2008,0.2473,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2009,0.2459,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2010,0.2441,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2011,0.2474,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2012,0.2464,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2013,0.2484,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2014,0.2532,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2015,0.2493,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2016,0.2555,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2017,0.2523,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2018,0.2532,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2019,0.2525,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2020,0.2506,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2021,0.2555,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2022,0.2567,992,j,NG,Nigeria
+NG,shwealj992,p99p100,2023,0.2693,992,j,NG,Nigeria
+RU,shwealj992,p99p100,1995,0.215,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,1996,0.2342,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,1997,0.3151,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,1998,0.3574,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,1999,0.4125,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2000,0.3918,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2001,0.4289,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2002,0.3848,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2003,0.4273,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2004,0.4308,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2005,0.4045,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2006,0.3672,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2007,0.3596,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2008,0.3932,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2009,0.3175,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2010,0.3428,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2011,0.3598,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2012,0.3547,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2013,0.3546,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2014,0.3719,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2015,0.4271,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2016,0.4295,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2017,0.4328,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2018,0.4423,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2019,0.4424,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2020,0.4836,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2021,0.4948,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2022,0.4837,992,j,RU,Russian Federation
+RU,shwealj992,p99p100,2023,0.4865,992,j,RU,Russian Federation
+ZA,shwealj992,p99p100,1993,0.4824,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,1994,0.4926,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,1995,0.4708,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,1996,0.4841,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,1997,0.4789,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,1998,0.4768,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,1999,0.5038,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2000,0.492,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2001,0.5022,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2002,0.4952,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2003,0.4973,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2004,0.4864,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2005,0.5071,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2006,0.5173,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2007,0.5151,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2008,0.4965,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2009,0.5285000000000001,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2010,0.5729000000000001,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2011,0.5760000000000001,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2012,0.5724,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2013,0.5626,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2014,0.5481,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2015,0.5504,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2016,0.5378000000000001,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2017,0.5473,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2018,0.5474,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2019,0.5473,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2020,0.5474,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2021,0.5471,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2022,0.5473,992,j,ZA,South Africa
+ZA,shwealj992,p99p100,2023,0.5473,992,j,ZA,South Africa
+US,shwealj992,p99p100,1913,0.4663,992,j,US,USA
+US,shwealj992,p99p100,1914,0.4611,992,j,US,USA
+US,shwealj992,p99p100,1915,0.4614,992,j,US,USA
+US,shwealj992,p99p100,1916,0.4446,992,j,US,USA
+US,shwealj992,p99p100,1917,0.42,992,j,US,USA
+US,shwealj992,p99p100,1918,0.3843,992,j,US,USA
+US,shwealj992,p99p100,1919,0.4127,992,j,US,USA
+US,shwealj992,p99p100,1920,0.3696,992,j,US,USA
+US,shwealj992,p99p100,1921,0.3813,992,j,US,USA
+US,shwealj992,p99p100,1922,0.4112,992,j,US,USA
+US,shwealj992,p99p100,1923,0.3656,992,j,US,USA
+US,shwealj992,p99p100,1924,0.3861,992,j,US,USA
+US,shwealj992,p99p100,1925,0.4189,992,j,US,USA
+US,shwealj992,p99p100,1926,0.435,992,j,US,USA
+US,shwealj992,p99p100,1927,0.4587,992,j,US,USA
+US,shwealj992,p99p100,1928,0.4855,992,j,US,USA
+US,shwealj992,p99p100,1929,0.4867,992,j,US,USA
+US,shwealj992,p99p100,1930,0.4417,992,j,US,USA
+US,shwealj992,p99p100,1931,0.3961,992,j,US,USA
+US,shwealj992,p99p100,1932,0.3938,992,j,US,USA
+US,shwealj992,p99p100,1933,0.415,992,j,US,USA
+US,shwealj992,p99p100,1934,0.4213,992,j,US,USA
+US,shwealj992,p99p100,1935,0.4154,992,j,US,USA
+US,shwealj992,p99p100,1936,0.4396,992,j,US,USA
+US,shwealj992,p99p100,1937,0.4473,992,j,US,USA
+US,shwealj992,p99p100,1938,0.4085,992,j,US,USA
+US,shwealj992,p99p100,1939,0.419,992,j,US,USA
+US,shwealj992,p99p100,1940,0.3898,992,j,US,USA
+US,shwealj992,p99p100,1941,0.3588,992,j,US,USA
+US,shwealj992,p99p100,1942,0.3538,992,j,US,USA
+US,shwealj992,p99p100,1943,0.3554,992,j,US,USA
+US,shwealj992,p99p100,1944,0.3285,992,j,US,USA
+US,shwealj992,p99p100,1945,0.3301,992,j,US,USA
+US,shwealj992,p99p100,1946,0.3089,992,j,US,USA
+US,shwealj992,p99p100,1947,0.2975,992,j,US,USA
+US,shwealj992,p99p100,1948,0.292,992,j,US,USA
+US,shwealj992,p99p100,1949,0.2836,992,j,US,USA
+US,shwealj992,p99p100,1950,0.296,992,j,US,USA
+US,shwealj992,p99p100,1951,0.2914,992,j,US,USA
+US,shwealj992,p99p100,1952,0.2882,992,j,US,USA
+US,shwealj992,p99p100,1953,0.2763,992,j,US,USA
+US,shwealj992,p99p100,1954,0.2823,992,j,US,USA
+US,shwealj992,p99p100,1955,0.2848,992,j,US,USA
+US,shwealj992,p99p100,1956,0.2879,992,j,US,USA
+US,shwealj992,p99p100,1957,0.2842,992,j,US,USA
+US,shwealj992,p99p100,1958,0.2797,992,j,US,USA
+US,shwealj992,p99p100,1959,0.2855,992,j,US,USA
+US,shwealj992,p99p100,1960,0.2854,992,j,US,USA
+US,shwealj992,p99p100,1961,0.287,992,j,US,USA
+US,shwealj992,p99p100,1962,0.2866,992,j,US,USA
+US,shwealj992,p99p100,1963,0.2834,992,j,US,USA
+US,shwealj992,p99p100,1964,0.2803,992,j,US,USA
+US,shwealj992,p99p100,1965,0.279,992,j,US,USA
+US,shwealj992,p99p100,1966,0.2777,992,j,US,USA
+US,shwealj992,p99p100,1967,0.2766,992,j,US,USA
+US,shwealj992,p99p100,1968,0.2921,992,j,US,USA
+US,shwealj992,p99p100,1969,0.2738,992,j,US,USA
+US,shwealj992,p99p100,1970,0.2667,992,j,US,USA
+US,shwealj992,p99p100,1971,0.2662,992,j,US,USA
+US,shwealj992,p99p100,1972,0.2644,992,j,US,USA
+US,shwealj992,p99p100,1973,0.2531,992,j,US,USA
+US,shwealj992,p99p100,1974,0.2406,992,j,US,USA
+US,shwealj992,p99p100,1975,0.237,992,j,US,USA
+US,shwealj992,p99p100,1976,0.226,992,j,US,USA
+US,shwealj992,p99p100,1977,0.2268,992,j,US,USA
+US,shwealj992,p99p100,1978,0.2179,992,j,US,USA
+US,shwealj992,p99p100,1979,0.2323,992,j,US,USA
+US,shwealj992,p99p100,1980,0.2323,992,j,US,USA
+US,shwealj992,p99p100,1981,0.2389,992,j,US,USA
+US,shwealj992,p99p100,1982,0.245,992,j,US,USA
+US,shwealj992,p99p100,1983,0.2396,992,j,US,USA
+US,shwealj992,p99p100,1984,0.2416,992,j,US,USA
+US,shwealj992,p99p100,1985,0.2419,992,j,US,USA
+US,shwealj992,p99p100,1986,0.2492,992,j,US,USA
+US,shwealj992,p99p100,1987,0.2657,992,j,US,USA
+US,shwealj992,p99p100,1988,0.2844,992,j,US,USA
+US,shwealj992,p99p100,1989,0.2858,992,j,US,USA
+US,shwealj992,p99p100,1990,0.2861,992,j,US,USA
+US,shwealj992,p99p100,1991,0.281,992,j,US,USA
+US,shwealj992,p99p100,1992,0.2918,992,j,US,USA
+US,shwealj992,p99p100,1993,0.2906,992,j,US,USA
+US,shwealj992,p99p100,1994,0.2896,992,j,US,USA
+US,shwealj992,p99p100,1995,0.293,992,j,US,USA
+US,shwealj992,p99p100,1996,0.2964,992,j,US,USA
+US,shwealj992,p99p100,1997,0.3047,992,j,US,USA
+US,shwealj992,p99p100,1998,0.3148,992,j,US,USA
+US,shwealj992,p99p100,1999,0.3181,992,j,US,USA
+US,shwealj992,p99p100,2000,0.3234,992,j,US,USA
+US,shwealj992,p99p100,2001,0.3214,992,j,US,USA
+US,shwealj992,p99p100,2002,0.3147,992,j,US,USA
+US,shwealj992,p99p100,2003,0.311,992,j,US,USA
+US,shwealj992,p99p100,2004,0.3168,992,j,US,USA
+US,shwealj992,p99p100,2005,0.3232,992,j,US,USA
+US,shwealj992,p99p100,2006,0.3271,992,j,US,USA
+US,shwealj992,p99p100,2007,0.3339,992,j,US,USA
+US,shwealj992,p99p100,2008,0.3397,992,j,US,USA
+US,shwealj992,p99p100,2009,0.3312,992,j,US,USA
+US,shwealj992,p99p100,2010,0.3461,992,j,US,USA
+US,shwealj992,p99p100,2011,0.3527,992,j,US,USA
+US,shwealj992,p99p100,2012,0.3662,992,j,US,USA
+US,shwealj992,p99p100,2013,0.3564,992,j,US,USA
+US,shwealj992,p99p100,2014,0.3583,992,j,US,USA
+US,shwealj992,p99p100,2015,0.3581,992,j,US,USA
+US,shwealj992,p99p100,2016,0.355,992,j,US,USA
+US,shwealj992,p99p100,2017,0.3548,992,j,US,USA
+US,shwealj992,p99p100,2018,0.352,992,j,US,USA
+US,shwealj992,p99p100,2019,0.3485,992,j,US,USA
+US,shwealj992,p99p100,2020,0.3513,992,j,US,USA
+US,shwealj992,p99p100,2021,0.3626,992,j,US,USA
+US,shwealj992,p99p100,2022,0.3489,992,j,US,USA
+US,shwealj992,p99p100,2023,0.3483,992,j,US,USA
+GB,shwealj992,p99p100,1895,0.7211000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1896,0.7285,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1897,0.7201000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1898,0.7235,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1899,0.7093,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1900,0.7156,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1901,0.7088,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1902,0.7175,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1903,0.7103,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1904,0.7183,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1905,0.7251000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1906,0.7041000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1907,0.6947,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1908,0.6964,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1909,0.6896,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1910,0.6847000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1911,0.6889000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1912,0.6943,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1913,0.6763,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1914,0.6983,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1919,0.6238,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1920,0.5933,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1921,0.608,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1922,0.6185,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1923,0.5962000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1924,0.5971000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1925,0.5916,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1926,0.5795,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1927,0.5977,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1928,0.5770000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1929,0.5804,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1930,0.5758,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1931,0.5558000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1932,0.555,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1933,0.5650000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1934,0.5588000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1935,0.5609000000000001,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1936,0.5696,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1937,0.5575,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1938,0.554,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1939,0.536,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1940,0.5354,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1941,0.525,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1946,0.4974,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1947,0.4826,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1948,0.4769,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1949,0.4679,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1950,0.4511,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1951,0.4424,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1952,0.4129,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1953,0.4245,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1954,0.4495,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1955,0.4105,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1956,0.4128,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1957,0.3908,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1958,0.3796,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1959,0.3933,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1960,0.3862,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1961,0.3759,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1962,0.363,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1963,0.3656,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1964,0.3619,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1965,0.3502,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1966,0.3303,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1967,0.3375,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1968,0.3415,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1969,0.3123,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1970,0.3073,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1971,0.3049,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1972,0.3097,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1973,0.2833,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1974,0.2678,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1975,0.2538,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1976,0.2604,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1977,0.2377,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1978,0.2432,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1979,0.2085,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1980,0.2114,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1981,0.2038,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1982,0.1986,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1983,0.2013,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1984,0.178,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1985,0.1855,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1986,0.1877,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1987,0.1921,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1988,0.1771,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1989,0.1893,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1990,0.1841,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1991,0.1801,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1992,0.1932,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1993,0.2029,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1994,0.2006,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1995,0.1857,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1996,0.1899,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1997,0.2075,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1998,0.2118,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,1999,0.2045,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2000,0.2037,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2001,0.2044,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2002,0.1998,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2003,0.1875,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2004,0.1932,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2005,0.2024,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2006,0.2052,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2007,0.2056,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2008,0.2024,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2009,0.201,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2010,0.2006,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2011,0.2027,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2012,0.2075,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2013,0.2264,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2014,0.2261,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2015,0.2139,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2016,0.213,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2017,0.2125,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2018,0.2134,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2019,0.2115,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2020,0.2103,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2021,0.2122,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2022,0.2115,992,j,GB,United Kingdom
+GB,shwealj992,p99p100,2023,0.2125,992,j,GB,United Kingdom

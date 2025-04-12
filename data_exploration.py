@@ -189,6 +189,7 @@ def compare_variable_availability(country_list, directory='wid_all_data'):
     
     Returns:
         pd.DataFrame: Data frame showing variable availability by country
+        pd.DataFrame: Pivot table of variable availability
     """
     availability_data = []
     
@@ -219,7 +220,7 @@ def compare_variable_availability(country_list, directory='wid_all_data'):
     # Convert to DataFrame
     availability_df = pd.DataFrame(availability_data)
     
-    print(f"Availability DataFrame:\n{availability_df.head()}")
+    # print(f"Availability DataFrame:\n{availability_df.head()}")
     # Create a pivot table of availability
     if not availability_df.empty:
         pivot_df = pd.pivot_table(
@@ -231,14 +232,14 @@ def compare_variable_availability(country_list, directory='wid_all_data'):
             fill_value=False
         )
         
-        print(f"Pivot Table:\n{pivot_df.head()}")
+        # print(f"Pivot Table:\n{pivot_df.head()}")
         # Add a total count column
         pivot_df['total_countries'] = pivot_df.sum(axis=1)
         
         # Sort by availability
         pivot_df = pivot_df.sort_values('total_countries', ascending=False)
         
-        return pivot_df
+        return availability_df, pivot_df
     
     return None
 

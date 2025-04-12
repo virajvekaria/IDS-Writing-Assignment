@@ -12,22 +12,33 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Import functions from our exploration module
-from data_exploration import read_wid_csv, explore_countries, explore_country_data, compare_variable_availability
+from data_exploration import read_wid_csv, explore_countries, explore_country_data
 
-# Key variables we'll be using based on what's available in the dataset
-# We found these variables in our exploration:
-# - Income variables: 'adiincf992', 'adiinci992', 'aptincf992', 'gfaincj992'
-# - Wealth variables: 'bhwealj992'
-# - Share variables: 'spllinf992'
+# Key variables we'll be using based on what's available for all countries
+# These variables are confirmed to exist for all countries in our analysis
 
-# Define variables to try
-INCOME_VARIABLES = ['aptincf992', 'adiinci992', 'aptinci992', 'gfaincj992'] 
-WEALTH_VARIABLES = ['bhwealj992']
-SHARE_VARIABLES = ['spllinf992']
+# Income variables
+INCOME_SHARE_VARIABLES = ['sptincj992']  # Share of pre-tax national income with equal-split adults
+INCOME_GINI_VARIABLES = ['gptincj992']   # Gini coefficient for pre-tax income
+INCOME_AVERAGE_VARIABLES = ['aptincj992', 'bptincj992']  # Average metrics for pre-tax income
 
-# Define percentiles of interest (based on what's available in your dataset)
-TOP_PERCENTILES = ['p90p100', 'p99p100', 'p99.9p100']  # Top 10%, Top 1%, Top 0.1%
-BOTTOM_PERCENTILES = ['p0p50', 'p0p90']  # Bottom 50%, Bottom 90%
+# Wealth variables
+WEALTH_SHARE_VARIABLES = ['shwealj992']  # Share of household wealth with equal-split adults
+WEALTH_GINI_VARIABLES = ['ghwealj992']   # Gini coefficient for household wealth
+WEALTH_AVERAGE_VARIABLES = ['bhwealj992', 'ahwealj992']  # Average metrics for household wealth
+
+# Combined lists for easier processing
+SHARE_VARIABLES = INCOME_SHARE_VARIABLES + WEALTH_SHARE_VARIABLES
+GINI_VARIABLES = INCOME_GINI_VARIABLES + WEALTH_GINI_VARIABLES
+AVERAGE_VARIABLES = INCOME_AVERAGE_VARIABLES + WEALTH_AVERAGE_VARIABLES
+
+# Define combined variables for use in functions that expect INCOME_VARIABLES and WEALTH_VARIABLES
+INCOME_VARIABLES = INCOME_SHARE_VARIABLES + INCOME_GINI_VARIABLES + INCOME_AVERAGE_VARIABLES
+WEALTH_VARIABLES = WEALTH_SHARE_VARIABLES + WEALTH_GINI_VARIABLES + WEALTH_AVERAGE_VARIABLES
+
+# Define percentiles of interest
+TOP_PERCENTILES = ['p99p100', 'p90p100']  # Top 1%, Top 10%
+BOTTOM_PERCENTILES = ['p0p50']  # Bottom 50%
 MIDDLE_PERCENTILES = ['p50p90']  # Middle 40%
 
 # Countries to include in our analysis
@@ -484,7 +495,8 @@ def create_correlation_dataset(countries=COUNTRIES_TO_ANALYZE, reference_year=20
 # Main function to prepare all datasets
 def prepare_all_datasets(directory='wid_all_data'):
     """
-    Prepare all datasets needed for our inequality analysis.
+    Prepare all datasets needed for our inequality analysis with a focus on
+    comparing wealth and income inequality patterns across countries.
     
     Args:
         directory (str): Path to WID data directory
@@ -496,53 +508,62 @@ def prepare_all_datasets(directory='wid_all_data'):
     
     datasets = {}
     
-    # 1. Time series of top 1% income share
-    print("Creating top 1% income share time series...")
-    datasets['top1_income_time'] = create_time_series_dataset(
-        INCOME_VARIABLES, 'p99p100', COUNTRIES_TO_ANALYZE, directory)
+    # 1. Income share datasets for different percentiles
+    for percentile in TOP_PERCENTILES + BOTTOM_PERCENTILES:
+        print(f"Creating income share dataset for {percentile}...")
+        datasets[f'income_share_{percentile}'] = create_time_series_dataset(
+            INCOME_SHARE_VARIABLES, percentile, COUNTRIES_TO_ANALYZE, directory)
     
-    # 2. Time series of top 10% income share 
-    print("Creating top 10% income share time series...")
-    datasets['top10_income_time'] = create_time_series_dataset(
-        INCOME_VARIABLES, 'p90p100', COUNTRIES_TO_ANALYZE, directory)
+    # 2. Wealth share datasets for different percentiles
+    for percentile in TOP_PERCENTILES + BOTTOM_PERCENTILES:
+        print(f"Creating wealth share dataset for {percentile}...")
+        datasets[f'wealth_share_{percentile}'] = create_time_series_dataset(
+            WEALTH_SHARE_VARIABLES, percentile, COUNTRIES_TO_ANALYZE, directory)
     
-    # 3. Time series of bottom 50% income share
-    print("Creating bottom 50% income share time series...")
-    datasets['bottom50_income_time'] = create_time_series_dataset(
-        INCOME_VARIABLES, 'p0p50', COUNTRIES_TO_ANALYZE, directory)
+    # 3. Income and wealth Gini coefficients (overall inequality metrics)
+    print("Creating income Gini coefficient dataset...")
+    datasets['income_gini'] = create_time_series_dataset(
+        INCOME_GINI_VARIABLES, 'p0p100', COUNTRIES_TO_ANALYZE, directory)
     
-    # 4. Time series of top 1% wealth share
-    print("Creating top 1% wealth share time series...")
-    datasets['top1_wealth_time'] = create_time_series_dataset(
-        WEALTH_VARIABLES, 'p99p100', COUNTRIES_TO_ANALYZE, directory)
+    print("Creating wealth Gini coefficient dataset...")
+    datasets['wealth_gini'] = create_time_series_dataset(
+        WEALTH_GINI_VARIABLES, 'p0p100', COUNTRIES_TO_ANALYZE, directory)
     
-    # 5. Try to create a dataset with share variables if available
-    print("Creating share variable time series if available...")
-    if SHARE_VARIABLES:
-        for percentile in TOP_PERCENTILES + BOTTOM_PERCENTILES:
-            dataset_name = f"share_{percentile}_time"
-            datasets[dataset_name] = create_time_series_dataset(
-                SHARE_VARIABLES, percentile, COUNTRIES_TO_ANALYZE, directory)
+    # 4. Average income and wealth metrics (for development level comparison)
+    print("Creating average income dataset...")
+    datasets['average_income'] = create_time_series_dataset(
+        INCOME_AVERAGE_VARIABLES, 'p0p100', COUNTRIES_TO_ANALYZE, directory)
     
-    # 6. Cross-sectional data for most recent year
+    print("Creating average wealth dataset...")
+    datasets['average_wealth'] = create_time_series_dataset(
+        WEALTH_AVERAGE_VARIABLES, 'p0p100', COUNTRIES_TO_ANALYZE, directory)
+    
+    # 5. Cross-sectional dataset with the latest data for all metrics
     print("Creating cross-sectional dataset...")
     datasets['cross_section'] = create_cross_sectional_dataset(
         COUNTRIES_TO_ANALYZE, 2020, directory)
     
-    # 7. Changes in income inequality (1980-2020)
-    print("Creating income inequality change dataset...")
-    datasets['income_change'] = create_inequality_change_dataset(
-        COUNTRIES_TO_ANALYZE, INCOME_VARIABLES, 'p99p100', 1980, 2020, directory)
+    # 6. Calculate wealth-to-income inequality ratios for cross-sectional analysis
+    if datasets['cross_section'] is not None and not datasets['cross_section'].empty:
+        print("Calculating wealth-to-income inequality ratios...")
+        calculate_wealth_income_ratios(datasets['cross_section'])
     
-    # 8. Changes in wealth inequality (1980-2020)
-    print("Creating wealth inequality change dataset...")
-    datasets['wealth_change'] = create_inequality_change_dataset(
-        COUNTRIES_TO_ANALYZE, WEALTH_VARIABLES, 'p99p100', 1980, 2020, directory)
+    # 7. Calculate changes in inequality metrics over time
+    print("Creating inequality change datasets...")
+    for metric_type in ['income_share', 'wealth_share', 'income_gini', 'wealth_gini']:
+        percentile = 'p99p100' if 'share' in metric_type else 'p0p100'
+        variable_list = INCOME_SHARE_VARIABLES if metric_type == 'income_share' else \
+                       WEALTH_SHARE_VARIABLES if metric_type == 'wealth_share' else \
+                       INCOME_GINI_VARIABLES if metric_type == 'income_gini' else \
+                       WEALTH_GINI_VARIABLES
+        
+        datasets[f'{metric_type}_change'] = create_inequality_change_dataset(
+            COUNTRIES_TO_ANALYZE, variable_list, percentile, 1980, 2020, directory)
     
-    # 9. Correlation dataset
-    print("Creating correlation dataset...")
-    datasets['correlation'] = create_correlation_dataset(
-        COUNTRIES_TO_ANALYZE, 2020, directory)
+    # 8. Development level dataset (using average income as proxy)
+    print("Creating development level dataset...")
+    datasets['development_level'] = create_time_series_dataset(
+        INCOME_AVERAGE_VARIABLES, 'p0p100', COUNTRIES_TO_ANALYZE, directory)
     
     # Save datasets to CSV files
     output_dir = 'output'
@@ -556,15 +577,111 @@ def prepare_all_datasets(directory='wid_all_data'):
     print("Dataset preparation complete!")
     return datasets
 
+# Function to calculate wealth-to-income inequality ratios
+def calculate_wealth_income_ratios(cross_section_df):
+    """
+    Calculate wealth-to-income inequality ratios for cross-sectional analysis.
+    Adds these ratios directly to the dataframe.
+    
+    Args:
+        cross_section_df (pd.DataFrame): Cross-sectional dataset with inequality metrics
+    
+    Returns:
+        None (modifies dataframe in-place)
+    """
+    # Find wealth and income share columns for top percentiles
+    wealth_cols = [col for col in cross_section_df.columns 
+                  if col.endswith('_value') and 'wealth' in col and any(p in col for p in TOP_PERCENTILES)]
+    
+    income_cols = [col for col in cross_section_df.columns 
+                  if col.endswith('_value') and 'income' in col and 'share' in col 
+                  and any(p in col for p in TOP_PERCENTILES)]
+    
+    # Find Gini coefficient columns
+    wealth_gini_cols = [col for col in cross_section_df.columns 
+                       if col.endswith('_value') and 'wealth' in col and 'gini' in col]
+    
+    income_gini_cols = [col for col in cross_section_df.columns 
+                       if col.endswith('_value') and 'income' in col and 'gini' in col]
+    
+    # Calculate wealth-to-income share ratios for each percentile
+    for w_col in wealth_cols:
+        for i_col in income_cols:
+            # Make sure we're comparing the same percentile
+            w_percentile = next((p for p in TOP_PERCENTILES if p in w_col), None)
+            i_percentile = next((p for p in TOP_PERCENTILES if p in i_col), None)
+            
+            if w_percentile == i_percentile:
+                ratio_name = f"wealth_to_income_ratio_{w_percentile}"
+                cross_section_df[ratio_name] = cross_section_df[w_col] / cross_section_df[i_col]
+                print(f"  Calculated {ratio_name}")
+    
+    # Calculate wealth-to-income Gini ratio if available
+    if wealth_gini_cols and income_gini_cols:
+        cross_section_df['wealth_to_income_gini_ratio'] = \
+            cross_section_df[wealth_gini_cols[0]] / cross_section_df[income_gini_cols[0]]
+        print("  Calculated wealth-to-income Gini ratio")
+    
+    # Group countries by development level (using average income as proxy)
+    income_avg_cols = [col for col in cross_section_df.columns 
+                      if col.endswith('_value') and 'income' in col and 'average' in col]
+    
+    if income_avg_cols:
+        try:
+            # Create development level categories using income levels
+            income_col = income_avg_cols[0]
+            
+            # Remove missing values for ranking
+            valid_income = cross_section_df.dropna(subset=[income_col])
+            
+            if len(valid_income) >= 6:  # Need at least 6 countries for 3 groups of 2
+                # Create ranks, handling ties
+                ranks = valid_income[income_col].rank(method='first')
+                
+                # Create quantiles with 3 groups if enough countries
+                n_groups = min(3, len(valid_income) // 2)
+                
+                development_labels = [f'Low Income', f'Middle Income', f'High Income'][:n_groups]
+                
+                # Create development level categories
+                valid_income['development_level'] = pd.qcut(
+                    ranks, q=n_groups, labels=development_labels
+                )
+                
+                # Merge back to original dataframe
+                development_mapping = dict(zip(
+                    valid_income['country_code'], 
+                    valid_income['development_level']
+                ))
+                
+                # Apply mapping to original dataframe
+                cross_section_df['development_level'] = \
+                    cross_section_df['country_code'].map(development_mapping)
+                
+                print("  Added development level categories")
+        except Exception as e:
+            print(f"  Error creating development levels: {e}")
+    
+    # Add region groupings based on country codes
+    region_mapping = {
+        'US': 'North America',
+        'FR': 'Western Europe', 
+        'DE': 'Western Europe',
+        'GB': 'Western Europe',
+        'JP': 'East Asia',
+        'BR': 'Latin America',
+        'CN': 'East Asia',
+        'RU': 'Eastern Europe',
+        'ZA': 'Africa',
+        'IN': 'South Asia',
+        'ID': 'Southeast Asia',
+        'NG': 'Africa',
+        'EG': 'Middle East & North Africa'
+    }
+    
+    cross_section_df['region'] = cross_section_df['country_code'].map(region_mapping)
+    print("  Added region classifications")
+
 # Run the data preparation if executed as a script
 if __name__ == "__main__":
-    # prepared_data = prepare_all_datasets()
-    
-    dataset = create_inequality_dataset(countries=['US', 'FR'], 
-                                        variable_codes=INCOME_VARIABLES, 
-                                        percentiles=['p99p100'], 
-                                        directory='wid_all_data')
-    
-    print(compare_variable_availability(COUNTRIES_TO_ANALYZE))
-    
-    print(dataset.head())
+    prepared_data = prepare_all_datasets()
