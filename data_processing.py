@@ -565,6 +565,6 @@ if __name__ == "__main__":
                                         percentiles=['p99p100'], 
                                         directory='wid_all_data')
     
-    print(compare_variable_availability())
+    print(compare_variable_availability(COUNTRIES_TO_ANALYZE))
     
     print(dataset.head())
