@@ -12,7 +12,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Import functions from our exploration module
-from data_exploration import read_wid_csv, explore_countries, explore_country_data
+from data_exploration import read_wid_csv, explore_countries, explore_country_data, compare_variable_availability
 
 # Key variables we'll be using based on what's available in the dataset
 # We found these variables in our exploration:
@@ -558,4 +558,13 @@ def prepare_all_datasets(directory='wid_all_data'):
 
 # Run the data preparation if executed as a script
 if __name__ == "__main__":
-    prepared_data = prepare_all_datasets()
+    # prepared_data = prepare_all_datasets()
+    
+    dataset = create_inequality_dataset(countries=['US', 'FR'], 
+                                        variable_codes=INCOME_VARIABLES, 
+                                        percentiles=['p99p100'], 
+                                        directory='wid_all_data')
+    
+    print(compare_variable_availability())
+    
+    print(dataset.head())

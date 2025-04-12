@@ -65,7 +65,9 @@ def list_wid_files(directory='wid_all_data'):
 
 # Explore available countries and their metadata
 def explore_countries(directory='wid_all_data'):
-    """Load and explore country data from WID_countries.csv."""
+    """Load and explore country data from WID_countries.csv.
+       Returns a summary of regions and countries.    
+    """
     countries_path = os.path.join(directory, 'WID_countries.csv')
     
     if not os.path.exists(countries_path):
