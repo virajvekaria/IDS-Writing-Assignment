@@ -131,7 +131,7 @@ def create_inequality_dataset(countries, variable_codes, percentiles, directory=
             
             # Append to combined dataset
             combined_df = pd.concat([combined_df, filtered_df])
-            print(f"  Found data for {country}: {len(filtered_df)} rows")
+            print(f"  Found data for {variable_code} for {country}: {len(filtered_df)} rows")
         
         if not combined_df.empty:
             print(f"Successfully found data for variable {variable_code}")
